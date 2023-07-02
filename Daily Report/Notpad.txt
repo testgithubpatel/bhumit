@@ -1,0 +1,14 @@
+Defects of notepad
+
+1. not able to open any kind file like doc,pdf 
+2. not has spell correction feature
+3. not able to insert picture
+4. font design, style issue
+5. font size, color issue
+6. table can't make
+7. not able to insert picture 
+8. can't draw anything 
+9. Design tools are not available
+10. limited support for limited language
+11. can't change font colour 
+12. notepad hasn't handling for large size files

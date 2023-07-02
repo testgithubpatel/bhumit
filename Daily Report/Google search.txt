@@ -1,0 +1,10 @@
+Defect of Google Search
+
+1. sometimes search in local language issue in keywords
+2. search function has limited issue
+3. search keyword limit long but exact
+4. sometimes google's theme logo not showing
+5. sometimes take too much time for loading
+6. search button not working properly sometime
+7. earch from image option is not working properly exact from image
+8. voice serach not take exact word for searching

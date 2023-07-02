@@ -1,0 +1,12 @@
+Defects of What's app camera
+
+1. After click photo result can be blurr.
+2. camera filter option not available in whats app camera.
+3. can't click focused photo as well as in video. 
+4. sometime camera button is not working.
+5. sometimes flash is not working during camera and video shoot.
+6. sometimes camera not open after click 1 time.
+7. whatsapp camera can't take video morethan 30 second.
+8. what's app camera don't have more feacture than normal phone camera.
+9. sometimes problem with rear and front camera changes.
+10. sometimes call is disconnect while use camera.

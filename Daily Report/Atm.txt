@@ -1,0 +1,13 @@
+Defect of ATM Mchine
+
+1. if run out of money can't show error message about shortage of money
+2. limited language option
+3. limited pin attemps options
+4. user not getting statement slip after completion of transaction
+5. card reader fail to read, accept card
+6. buttons not working sometimes
+7. works only on secure server
+8. shows only on correct option
+9. if server crash than atm machine not working
+10. limited time limit for transaction                                                
+11. card reading not working sometimes

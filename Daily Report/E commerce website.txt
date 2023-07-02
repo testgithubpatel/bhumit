@@ -1,0 +1,16 @@
+Defects of E-commerce website
+
+1.account creation issue
+2. web & mobile login issue
+3. forgot password otp send issue to user phone 
+4. add to cart issue
+5. auto logout issue 
+6. user has payment issue in low internet connection
+7. when ran out of product sometimes not showing message that out of stocks
+8. user login issue
+9. price sorting not work proper sometimes
+10. main product page mis-match issue
+11. Diffrent price issues
+12. sometimes later delievery issue
+13. without internet connection apps npot working
+14. sometimes COD is not working 

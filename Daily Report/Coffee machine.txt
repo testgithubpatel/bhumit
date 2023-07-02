@@ -1,0 +1,16 @@
+Defect of coffee wending machine
+
+1. coffee cup fill up issues
+2. need electricity for working
+3. in coffee making bucket there is specific powder to be insert in it 
+4. sensor issue
+5. taste issue
+6. doesn't show error of any shortage of ingredients
+7. how many times of switch can perform for machine
+8. display shows incorrect info sometimes
+9. coffee serving quantity is not enough sometimes
+10. not easy to use for any person
+11. switch not working sometimes
+12. need frequent maintenance  
+13. freshness issue in milk                       
+14. machine switch issue 

@@ -1,0 +1,8 @@
+Whats app Group
+
+1 .Whats app group feature need internet connection
+2. In active groups with a large number of members, there can be a constant influx of messages, leading to information overload
+3. It can consume a significant amount of time and attention, affecting productivity and focus
+4. roup members can see each other's phone numbers and profile pictures, which might compromise privacy, especially if the group includes acquaintances or colleagues who may not be close friends
+5. Media files shared within the group, such as photos, videos, and documents, can occupy device storage space
+6. WhatsApp groups are susceptible to the spread of forwarded messages and misinformation

@@ -1,0 +1,12 @@
+Defect of FB Messanger
+
+1. some link can't send in message 
+2. sometimes refresh chat now working 
+3. limited file sharing size
+4. issue on user received message
+5. have to become friends first for chat
+6. not compatible for all device
+7. fb app limited feature & messanger app has better feature
+8. if user send message to unknown person or not
+9. very poor quality of videocalling 
+10. user not able to delete multiple message in particular chat

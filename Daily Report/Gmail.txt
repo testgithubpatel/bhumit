@@ -1,0 +1,10 @@
+Defect of Gmail send and Recieve Mail
+
+1.for send & receive mail need internet connection
+2. need to scan for viruses in mail
+3. attachment has limited data for sending
+4. for send, user id mistake not shown while entering details
+5. some mail not showing in inbox, it shows in spam folder
+6. while receive mail need to receive mail from any website
+7. important mail didn;t get important label
+8. not able to work on every device

@@ -1,0 +1,16 @@
+Defect of Door
+
+1. slider door need to maintain regularly.
+2.  slider door only open in side ways .
+3. door become noisy after sometimes.
+4. slider door has collison issue.
+5. sometime door geeting hard for open and close.
+6. sliding door is not comfortable for open and close.
+7. Automatic door sometime not working properly and convert in'Manually'
+8. metalic door is too heavy for use.
+9. Wooden door is vulnerable with water.
+10. door has poor quality.
+11. door durability issue.
+12. Round door sometimes work 'manually' but it is Automatic.
+13. door has poor quality.
+14. door durability issue.

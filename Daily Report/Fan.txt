@@ -1,0 +1,15 @@
+Defect of fan
+
+1. fan speed issue while changing it's speed.
+2. fan speed impacted after envornment change.
+3. table fan has noice issue after sometimes.
+4. table fan has limited height level.
+5. Excuast fan is very niosy.
+6. in different atmosphere fan has different issues.
+7. capacitor issue in every fan.
+8. can't cover some area with wind specially celing fan.
+9. fan has wings issue.
+10. Fan's non function are not workin properly.
+11. solar fan has weather issue specially in cloudy weather.
+12. Wall fan has movement issues.
+13. fan has technical issue after sometie.

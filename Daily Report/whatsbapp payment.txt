@@ -1,0 +1,9 @@
+Defect of whats app payment
+
+1. Do not have any option for payment in iphone
+2. without internet it is not working
+3. sometimes problem with OTP
+4. Sometime shows error with getting payment
+5. DO not shows any payment icon in IOS version in Iphone
+6. Whats app Payment is not secure than other gateway app
+7. not much users platform

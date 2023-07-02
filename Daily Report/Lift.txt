@@ -1,0 +1,18 @@
+Defects of lift
+
+1. Lift has overweight isues.
+2. lift is not flexible for every floor in building.
+3. lift's button not working sometimes.
+4. Mechenism issues.
+5. Lift belt issues.
+6. Lift's fan is not workig.
+7. Lift's light and Alarm is not working.
+8. Lif's camera is not working.
+9. old lift has metalic door issues.
+10. Loading  lift is very noisy.
+11. lift can be stopped anywhere.
+12. lift automated door open/close anytime.
+13. lift not work on lower power supply.
+14. if power shut off lift doesn't stop nearest floor.
+15. if door not work properly then lift not operate.
+16. lift switch operate issue.
